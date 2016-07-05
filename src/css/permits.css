@@ -1,0 +1,71 @@
+body {
+  line-height: 1.5;
+}
+
+.faq-question {
+  font-size: 1.3em;
+  font-family: "Times New";
+  margin-bottom: 15px;
+}
+
+.faq-answer-title {
+  font-size: 1.3em;
+  font-family: "Times New";
+  font-style: italic;
+  font-weight: bold;
+}
+
+.faq-answer {
+  font-size: 1.2em;
+  font-family: "Times New";
+}
+
+.faq-answer p,
+.faq-answer input {
+  margin-left: 20px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+#status {
+  color: red;
+  margin-bottom: 10px;
+}
+
+.note {
+  color: #FF1F1F;
+}
+
+.diagram {
+  margin: 10px auto;
+  text-align: center;
+  width: 100%;
+}
+
+img {
+  max-width: 100%;
+}
+
+label {
+  font-weight: bold;
+  margin-bottom: 3px;
+  margin-left: 20px;
+}
+
+#permit-search {
+  border-radius: 5px;
+  display: block;
+  padding: 7px;
+}
+
+.normal-list {
+  margin-left: 20px;
+  list-style-type: disc;
+}
+
+.output {
+  color: red;
+  margin: 20px;
+}
