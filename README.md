@@ -4,7 +4,7 @@ This application allows users to look up the current status of their Interstate 
 
 ## Application Dependencies
 
-This project was built using [NodeJS](https://nodejs.org/en/) version 4.X, and is maintained in version control using [git](https://git-scm.com/).  Please make sure you have these applications installed before you proceed.  You'll need to clone the repository to your local machine to get started.  To clone a the repo navigate to the location you'd like to clone this repository onto your local machine ex: `cd ~/User/web`, then run the clone command, `git clone git@github.com:USFWS/southeast-permits.git permits` to save the project to a new folder called permits.
+This project was built using [NodeJS](https://nodejs.org/en/) version 4.X, and is maintained in version control using [git](https://git-scm.com/).  Please make sure you have these applications installed before you proceed.  You'll need to clone the repository to your local machine to get started.  To clone a the repo navigate to the location you'd like to clone this repository onto your local machine ex: `cd ~/User/web`, then run the clone command, `git clone https://github.com/USFWS/southeast-permits.git permits` to save the project to a new folder called permits.
 
 ## Project Dependencies
 
