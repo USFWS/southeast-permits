@@ -359,7 +359,7 @@ number,status,fed_register
 92805B-0,Issued,N/A
 9340B-0,Issued,N/A
 98424B,Issued,N/A
-98518B,Awaiting Input from Applicant,N/A
+98518B,Awaiting signature,N/A
 98507B,Awaiting signature,N/A
 98515B,Awaiting Input from Applicant,N/A
 206894-1,In RO for Review,N/A
@@ -386,3 +386,5 @@ number,status,fed_register
 42183A-1,In RO for Review,needs to be drafted
 00862C-0,In RO for Review,N/A
 00868C-0,In RO for Review,needs to be drafted
+108990-3,Awaiting Input from Applicant,N/A
+01408C-0,In RO for Review,N/A
