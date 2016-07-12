@@ -11,7 +11,7 @@
   var permits,
       output = document.querySelector('.output'),
       search = document.getElementById('permit-search'),
-      url = '../data/permits.js';
+      url = './data/permits.js';
 
   function getOffices () {
     xhr.get(url, function (err, res, body) {
