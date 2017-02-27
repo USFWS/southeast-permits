@@ -308,7 +308,7 @@ number,status,fed_register
 148282-4,Issued,N/A
 81500B-0,In FO for Review,Noticed for 30 days
 81492B-0,In FO for Review,Noticed for 30 days
-81353B-0,In FO for Review,Noticed for 30 days
+81353B-0,Awaiting signature,Noticed for 30 days
 81430B-0,Issued,Noticed for 30 days
 34778A-1,Issued,Noticed for 30 days
 81497B-0,Issued,
@@ -326,7 +326,7 @@ number,status,fed_register
 206872-7,Issued,Noticed for 30 days
 83000B-0,Awaiting Input from Applicant,Noticed for 30 days
 91366A-3,In RO for Review,Noticed for 30 days
-88797B-0,In FO for Review,Noticed for 30 days
+88797B-0,Awaiting signature,Noticed for 30 days
 88817B-0,Withdrawn,Noticed for 30 days
 94849B-0,Issued,N/A
 91373A-3,In RO for Review,Noticed for 30 days
@@ -348,7 +348,7 @@ number,status,fed_register
 92805B-0,Issued,N/A
 91755B-0,In RO for Review,Noticed for 30 days
 38792A-2,In RO for Review,N/A
-88823B-0,In FO for Review,Noticed for 30 days
+88823B-0,Awaiting Input from Applicant,Noticed for 30 days
 91704B-0,No permit needed,N/A
 079883-4,In FO for Review,needs to be drafted
 075925-3,In RO for Review,N/A
@@ -375,7 +375,7 @@ number,status,fed_register
 99265B-0,Issued,N/A
 40523A-1,In RO for Review,Noticed for 30 days
 060988-3,In RO for Review,Noticed for 30 days
-31141A-2,In FO for Review,Noticed for 30 days
+31141A-2,Awaiting Input from Applicant,Noticed for 30 days
 99474B-0,Awaiting Input from Applicant,N/A
 98424B-1,Issued,N/A
 009638-11,In RO for Review,Noticed for 30 days
@@ -388,7 +388,7 @@ number,status,fed_register
 33465A-1,In RO for Review,on current draft
 220923-1,Needs Drafting,N/A
 02165C-0,Issued,Noticed for 30 days
-02166C-0,In FO for Review,needs to be drafted
+02166C-0,Awaiting Input from Applicant,needs to be drafted
 02167C-0,Awaiting Input from Applicant,Noticed for 30 days
 03427C-0,Issued,N/A
 06337C-0,In RO for Review,on 30 day notice period
@@ -465,3 +465,4 @@ number,status,fed_register
 56430B-1,In RO for Review,N/A
 21570C-0,In RO for Review,needs to be drafted
 129703-6,In RO for Review,needs to be drafted
+23537C-0,In RO for Review,needs to be drafted
