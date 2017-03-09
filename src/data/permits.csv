@@ -238,7 +238,7 @@ number,status,fed_register
 822525-6,Issued,Noticed for 30 days
 57150B-0,Issued,N/A
 38522A-1,Issued,Noticed for 30 days
-207117-1,Awaiting signature,Noticed for 30 days
+207117-1,Issued,Noticed for 30 days
 075913-5,Issued,Noticed for 30 days
 57482B-0,Withdrawn,N/A
 58576B-0,Issued,Noticed for 30 days
@@ -307,7 +307,7 @@ number,status,fed_register
 0,In RO for Review,
 148282-4,Issued,N/A
 81500B-0,In FO for Review,Noticed for 30 days
-81492B-0,In FO for Review,Noticed for 30 days
+81492B-0,Awaiting signature,Noticed for 30 days
 81353B-0,Issued,Noticed for 30 days
 81430B-0,Issued,Noticed for 30 days
 34778A-1,Issued,Noticed for 30 days
@@ -331,9 +331,9 @@ number,status,fed_register
 94849B-0,Issued,N/A
 91373A-3,In RO for Review,Noticed for 30 days
 88778B-0,Issued,Noticed for 30 days
-54578B-1,In FO for Review,Noticed for 30 days
+54578B-1,Awaiting Input from Applicant,Noticed for 30 days
 35313B-3,Issued,N/A
-88809B-0,In FO for Review,Noticed for 30 days
+88809B-0,Awaiting Input from Applicant,Noticed for 30 days
 125620-4,In RO for Review,Noticed for 30 days
 56746B-1,Issued,N/A
 064856-3,Issued,Noticed for 30 days
@@ -403,10 +403,10 @@ number,status,fed_register
 04174C-0,Issued,N/A
 04968C-0,Issued,N/A
 06269C-0,Abandoned,N/A
-139474-8,In RO for Review,on 30 day notice period
+139474-8,In RO for Review,Noticed for 30 days
 06457C-0,Issued,N/A
-22311A-3,Awaiting Input from Applicant,on 30 day notice period
-171516-5,In RO for Review,on 30 day notice period
+22311A-3,Awaiting Input from Applicant,Noticed for 30 days
+171516-5,In RO for Review,Noticed for 30 days
 08591C-0,Issued,N/A
 08595C-0,Issued,N/A
 08596C-0,Issued,N/A
@@ -429,7 +429,7 @@ to be,In RO for Review,Noticed for 30 days
 31057A-1,In FO for Review,Noticed for 30 days
 14046C-0,Awaiting Input from Applicant,N/A
 14498C-0,Issued,N/A
-79580A-2,In FO for Review,N/A
+79580A-2,Issued,N/A
 61981B-2,In RO for Review,Awaiting publication
 34778A-2,Issued,N/A
 41910B-1,Awaiting Input from Applicant,Awaiting publication
@@ -447,14 +447,14 @@ to be,In RO for Review,Noticed for 30 days
 18508C-0,Issued,N/A
 18731C-0,Issued,N/A
 18836C-0,Issued,N/A
-18986C-0,In RO for Review,Awaiting publication
+18986C-0,Awaiting Input from Applicant,Awaiting publication
 68616B-1,In RO for Review,Awaiting publication
 106708-3,In RO for Review,N/A
 62778B-1,In RO for Review,Awaiting publication
 19771C-0,Issued,N/A
 13256C-0,Withdrawn,N/A
 13255C-0,Awaiting Input from Applicant,N/A
-20269C-0,In RO for Review,N/A
+20269C-0,In FO for Review,N/A
 20288C-0,In FO for Review,on current draft
 20308C-0,In RO for Review,on current draft
 98424B-2,In RO for Review,on current draft
