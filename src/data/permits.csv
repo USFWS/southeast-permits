@@ -307,7 +307,7 @@ number,status,fed_register
 0,In RO for Review,
 148282-4,Issued,N/A
 81500B-0,In FO for Review,Noticed for 30 days
-81492B-0,Awaiting signature,Noticed for 30 days
+81492B-0,Issued,Noticed for 30 days
 81353B-0,Issued,Noticed for 30 days
 81430B-0,Issued,Noticed for 30 days
 34778A-1,Issued,Noticed for 30 days
@@ -331,7 +331,7 @@ number,status,fed_register
 94849B-0,Issued,N/A
 91373A-3,In RO for Review,Noticed for 30 days
 88778B-0,Issued,Noticed for 30 days
-54578B-1,Awaiting Input from Applicant,Noticed for 30 days
+54578B-1,Awaiting signature,Noticed for 30 days
 35313B-3,Issued,N/A
 88809B-0,Awaiting Input from Applicant,Noticed for 30 days
 125620-4,In RO for Review,Noticed for 30 days
